@@ -1,3 +1,5 @@
+package src;
+
 
 public class Glad {
 	public static void glad() {
